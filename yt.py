@@ -394,10 +394,9 @@ logo = ("""\033[1;32m
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  : WASAID TRICKER
-  \033[1;33mYouTube : WASAID TRICKER
-  \033[1;32mFecbook : WASAID TRICKER
-   \033[1;33m Admin. : WASAID TRICKER
+  \033[1;32mAuther  : WASAID Ali Shah
+  \033[1;32mFecbook : WASAID Ali Shah
+   \033[1;33m Admin. : WASAID Ali Shah
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
