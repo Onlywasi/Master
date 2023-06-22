@@ -388,7 +388,7 @@ logo = ("""\033[1;32m
                                              
 
 
-\033[1;32mNAM TO SUNA HOGA WASAID
+\033[1;32mNAM TO SUNA HOGA WASAID Ali Shah
 \033[;33mCLEAR FECBOOK DATA TO OEPN CP ID JUST NOW
 \033[;32mMAZA NA AYE PASSY WAPIS 😁🖕
         
